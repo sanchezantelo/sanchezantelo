@@ -1,7 +1,9 @@
-<h1 align="center"> <img src="https://images.credly.com/size/96x96/images/b3ce2398-0401-4695-ac20-b801f22e69c7/standard_blob.jpeg" alt="linkedin"/> Hi 👋, I'm Sofía!</h1>
+<h1 align="center">Hi 👋 My name is Sofía</h1>
 <p align="center">
   <img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/robot-hello.gif" width="600" title="Hello"/>
 </p> 
+
+### Skills
 <div align="center" style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,13 +44,20 @@
 
   
   ##
- 
-   
+
+### Badges
+
+<b>My GitHub Stats</b>
+
 <div align="center">
   <a href="https://github.com/sanchezantelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanchezantelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezantelo&layout=compact&langs_count=7&theme=dark">
 </div>
+
+<a href="http://www.github.com/sanchezantelo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchezantelo&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/sanchezantelo"><img src="https://activity-graph.herokuapp.com/graph?username=sanchezantelo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
 | 🔭 I’m currently working on      	| <a href="https://www.claro.com.ar/" target="_blank" alt="Claro"><img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/claro-logo.jpg" alt="Claro" height="90"></a>      |
 |---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
