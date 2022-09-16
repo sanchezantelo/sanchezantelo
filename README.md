@@ -53,12 +53,12 @@
   <a href="https://github.com/sanchezantelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanchezantelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezantelo&layout=compact&langs_count=7&theme=dark">
-</div>
 
 <a href="http://www.github.com/sanchezantelo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchezantelo&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/sanchezantelo"><img src="https://activity-graph.herokuapp.com/graph?username=sanchezantelo&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-  
+</div>
+
 | 🔭 I’m currently working on      	| <a href="https://www.claro.com.ar/" target="_blank" alt="Claro"><img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/claro-logo.jpg" alt="Claro" height="90"></a>      |
 |---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | ✔🙌 view my verified achievement from              	|<a href="https://www.credly.com/users/sofia-sanchez-antelo/badges"><img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" width="100" height="100" alt="Credly"></a><a href="https://www.cloudskillsboost.google/public_profiles/41105f54-55bc-4555-aed9-f0a1d80532af" ><img src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D"  height="70" alt="GoogleCloud"></a><a href="https://docs.microsoft.com/en-us/users/SofiaSanchezAntelo-5961/"> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" height="50"  alt="Microsoft"></a>     
