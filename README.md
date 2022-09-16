@@ -11,10 +11,10 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-</p> 
+
   ##
 
-
+</p> 
 
 | 🔭 I’m currently working on      	| <a href="https://www.claro.com.ar/" target="_blank" alt="Claro"><img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/claro-logo.jpg" alt="Claro" height="90"></a>      |
 |---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
