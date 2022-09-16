@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://images.credly.com/size/96x96/images/b3ce2398-0401-4695-ac20-b801f22e69c7/standard_blob.jpeg" alt="linkedin"/> Hi 👋, I'm Sofía!</h1>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/sanchezantelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
