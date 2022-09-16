@@ -1,8 +1,9 @@
 <h1 align="center"> <img src="https://images.credly.com/size/96x96/images/b3ce2398-0401-4695-ac20-b801f22e69c7/standard_blob.jpeg" alt="linkedin"/> Hi 👋, I'm Sofía!</h1>
 <p align="center">
   <img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/robot-hello.gif" width="600" title="Hello"/>
+</p> 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -14,7 +15,7 @@
 
   ##
 
-</p> 
+
 
 | 🔭 I’m currently working on      	| <a href="https://www.claro.com.ar/" target="_blank" alt="Claro"><img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/claro-logo.jpg" alt="Claro" height="90"></a>      |
 |---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
