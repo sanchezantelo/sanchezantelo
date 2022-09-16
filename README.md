@@ -15,10 +15,11 @@
 
   ##
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezantelo&theme=dark&hide=php,html,jupyter,bash%20notebook&count_private=true&show_icons=true" alt="langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchezantelo&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="stats">
-</p> 
+<div align="center">
+  <a href="https://github.com/sanchezantelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanchezantelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezantelo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 | 🔭 I’m currently working on      	| <a href="https://www.claro.com.ar/" target="_blank" alt="Claro"><img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/claro-logo.jpg" alt="Claro" height="90"></a>      |
 |---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
