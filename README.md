@@ -33,5 +33,5 @@
  
 | 🔭 I’m currently working on      	| <a href="https://www.claro.com.ar/" target="_blank" alt="Claro"><img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/claro-logo.jpg" alt="Claro" height="90"></a>   |
 |---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| 📫 How to reach me:              	| <a href="https://www.linkedin.com/in/sof%C3%ADa-sanchez-antelo-3048a0217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">      	|
+| 📫 How to reach me:              	| <a href="https://www.linkedin.com/in/sof%C3%ADa-sanchez-antelo-3048a0217" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">      	|
 
