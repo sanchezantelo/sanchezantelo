@@ -3,6 +3,12 @@
   <img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/robot-hello.gif" width="600" title="Hello"/>
 </p> 
 
+<div align="center">
+  <a href="https://github.com/sanchezantelo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanchezantelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezantelo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 <div style="display: inline_block" align="center">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -14,7 +20,6 @@
 </div>
 
   ##
-
 
 
 | 🔭 I’m currently working on      	| <a href="https://www.claro.com.ar/" target="_blank" alt="Claro"><img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/claro-logo.jpg" alt="Claro" height="90"></a>      |
