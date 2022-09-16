@@ -1,9 +1,6 @@
 <h1 align="center"> <img src="https://images.credly.com/size/96x96/images/b3ce2398-0401-4695-ac20-b801f22e69c7/standard_blob.jpeg" alt="linkedin"/> Hi 👋, I'm Sofía!</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/devops.gif" width="600" title="DevOps"/>
-</p> 
-<p align="center">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell">  
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">  
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">  
