@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://images.credly.com/size/96x96/images/b3ce2398-0401-4695-ac20-b801f22e69c7/standard_blob.jpeg" alt="linkedin"/> Hi 👋, I'm Sofía!</h1>
 <p align="center">
   <img src="https://github.com/sanchezantelo/sanchezantelo/blob/main/robot-hello.gif" width="600" title="Hello"/>
-</p> 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
+</p> 
   ##
 
 
